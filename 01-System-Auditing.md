@@ -83,5 +83,6 @@ getent passwd
 ### macOS
 Uses Directory Services.
 ```Bash
+
 dscl . list /Users
 ```
