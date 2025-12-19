@@ -1,4 +1,4 @@
-#System Auditing & Integrity
+# System Auditing & Integrity
 
 ## 1. Hashing Tools (Generating Checksums)
 *How to generate a unique digital fingerprint for a file using system tools.*
